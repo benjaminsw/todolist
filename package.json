@@ -1,0 +1,22 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "simple task manager",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminsw/todolist.git"
+  },
+  "keywords": [
+    "MEAN"
+  ],
+  "author": "bensw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminsw/todolist/issues"
+  },
+  "homepage": "https://github.com/benjaminsw/todolist#readme"
+}
